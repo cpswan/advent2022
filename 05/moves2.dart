@@ -52,6 +52,7 @@ void main() {
     int fromcol=int.parse(line[3]);
     int tocol=int.parse(line[5]);
     //print("$numcrates $fromcol $tocol");
+    //bounce the crates into a temporary stack to resolve ordering for 2nd part
     for (int i = 1; i <= numcrates; i++) {
       String movecrate = stacks[fromcol-1].pop();
       stacks[9].push(movecrate);
