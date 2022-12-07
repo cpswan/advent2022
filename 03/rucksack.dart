@@ -21,7 +21,9 @@ void main() {
 
     // Find the common characters using the intersection method
     String commonChars = set1.intersection(set2).join("");
+    // ASCII offset for lower case
     int value = commonChars.codeUnitAt(0) - 96;
+    // and then reoffset for UPPER CASE
     if (value < 1){
       value += 58;
     }
