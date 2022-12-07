@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "stack",
+      "rootUri": "file:///home/chris/.pub-cache/hosted/pub.dartlang.org/stack-0.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
+    },
+    {
+      "name": "advent_05",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2022-12-06T17:34:55.077079Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.2"
+}
