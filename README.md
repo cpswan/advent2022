@@ -8,3 +8,8 @@ along similar lines to Simon Willison's
 Take a look at the
 [closed issues](https://github.com/cpswan/advent2022/issues?q=is%3Aissue+is%3Aclosed)
 for how ChatGPT sometimes gets it right, and often gets things wrong.
+
+I wrote up
+[Learning (better) Dart with Advent of Code (and ChatGPT)](https://blog.thestateofme.com/2022/12/13/learning-better-dart-with-advent-of-code-and-chatgpt/)
+to cover what I learned doing this (before giving up when the puzzles got too
+time consuming).
